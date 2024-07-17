@@ -6,6 +6,7 @@
 
 * Update stemcell from Ubuntu Xenial to Ubuntu Jammy
   for MinIO BOSH Release 2023-03-24T21-41-23Z
+* Update bpm-release to 1.2.23
 
 ##<a id="ver1.0.19"></a> v1.0.19
 
