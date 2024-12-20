@@ -1,5 +1,13 @@
 
 ### MinIO Internal Blobstore Release Notes
+##<a id="ver1.0.22"></a> v1.0.22
+
+**Release Date:** Dec 20, 2024
+
+* Update MinIO BOSH Release to 2024-12-13T22-19-12Z
+* Update mc to RELEASE.2024-11-21T17-21-54Z
+* Fixes security issue: [CVE-2024-55949](https://github.com/minio/minio/security/advisories/GHSA-cwq8-g58r-32hg)
+* Using nats-tls and updates routing to 0.327.0 and bpm-release to 1.4.9
 ##<a id="ver1.0.21"></a> v1.0.21
 
 **Release Date:** Jul 18, 2024
