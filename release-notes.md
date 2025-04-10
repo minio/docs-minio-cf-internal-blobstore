@@ -1,5 +1,12 @@
 
 ### MinIO Internal Blobstore Release Notes
+## <a id="ver1.0.24"></a> v1.0.24
+
+**Release Date:** Apr 10, 2025
+
+* Update MinIO BOSH Release to 2025-04-08T15-41-24Z
+* Update mc to 2025-04-08T15-39-49Z
+
 ## <a id="ver1.0.23"></a> v1.0.23
 
 **Release Date:** Apr 4, 2025
